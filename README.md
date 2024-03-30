@@ -2,7 +2,7 @@
 ## Project Objective
   The primary goal of this project is to create a comprehensive Annual Sales Report for the year 2023. The report aims to provide valuable insights to the E-Commerce owner, enabling them to understand customer behaviour and implement strategies for increased sales in 2024.
 ## Introduction
-  The E-Commerce Annual Sales Report is a dynamic Power BI-based tool designed to analyze and present key metrics related to sales performance in 2023. This README.md provides an overview of the features, instructions on usage, and insights derived from the analysis.
+  In the ever-evolving landscape of E-commerce, understanding sales dynamics is pivotal. This project harnesses the capabilities of Power BI to craft an illuminating annual sales report, facilitating a deep comprehension of customer trends and empowering the owner to drive increased sales in the coming year.
 ## Features
   + User-Friendly Interface: Intuitive design for easy navigation.
   + Comprehensive Data Analysis: Detailed insights into sales trends, customer preferences, and product performance.
