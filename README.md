@@ -23,7 +23,7 @@
   + Created pivot tables according to the questions asked.
   + Merge all pivot tables into one dashboard and apply a slicer to make the dashboard interactive and dynamic.
 ## Dashboard
-  ![Dashboard](https://github.com/Utkarsh0211/Store-Annual-Analysis/blob/main/Dashboard.png)
+  ![Dashboard](https://github.com/Utkarsh0211/E-Commerce-Sales-Analysis/blob/main/E%20-%20Commerce.png)
 ## Data Collection
 The report collects data on:
   + Sales Figures: Monthly and yearly revenue breakdown.
